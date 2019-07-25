@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "aws_alexa-executor",
+    "name": "aws_alexa",
+    "region": "us-west-2"
+  }
+}

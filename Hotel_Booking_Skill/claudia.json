@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "alexaHotelBookingSkill-executor",
+    "name": "alexaHotelBookingSkill",
+    "region": "us-west-2"
+  }
+}
